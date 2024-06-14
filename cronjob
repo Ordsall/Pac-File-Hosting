@@ -1,0 +1,1 @@
+*/10 * * * * /usr/bin/python3 /app/generate_pac.py /app/proxy_hosts $PROXY_SERVER $PROXY_TYPE /usr/share/nginx/html/proxy.pac
